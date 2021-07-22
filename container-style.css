@@ -1,21 +1,38 @@
+p {
+    font-size: 13px;
+    color: blue;
+    text-align: center;
+    line-height: 15px;
+    top: 18px;
+    position: relative;
+}
 .first {
-    width: 200px;
+    width: 150px;
     height: 100px;
     background-color: red;
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
   }
-  .second {
-    width: 200px;
+.second {
+    width: 150px;
     height: 100px;
     background-color: yellow;
-    bottom: 115px;
-    left: 250px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    bottom: 120px;
+    left: 190px;
     position: relative;
-  }
-  .third {
-    width: 200px;
+}
+.third {
+    width: 150px;
     height: 100px;
     background-color: green;
-    bottom: 230px;
-    left: 500px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: yellow;
+    bottom: 240px;
+    left: 380px;
     position: relative;
-  }
+}
