@@ -1,3 +1,12 @@
-p { 
-    background-color: red; 
+ul {
+    color: violet;
+}
+h1 {
+    color:blue;
+}
+strong,h2,p {
+    color:firebrick;
+}
+.punainen {
+    color:red;
 }
